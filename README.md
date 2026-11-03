@@ -1,6 +1,20 @@
 # Extractor-.SCS-files-mods
 Extractor .SCS files mods Euro Truck Simulator 2
 
+Português
+
+Este programa, extrai mods do Euro Truck Simulator 2, que vem bloqueados ou com senha>
+Ele extrai todo conteúdo, e automaticamente converte para ser importado no blender, foram testados diversos mods e a maioria deu de extrair, com o tempo pretendo adicionar mais linhas ao código para extrair com mais facilidade.
+E como ele funciona?
+Basta adicionar o mod.SCS escolher a pasta de saída e aguardar a extração, o tempo pode variar conforme o tamanho do arquivo
+
+English
+
+This program extracts mods for Euro Truck Simulator 2 that are locked or password-protected.
+It extracts all the content and automatically converts it for import into Blender. Various mods have been tested, and most could be successfully extracted; over time, I intend to add more code to make the extraction process even easier.
+And how does it work?
+Simply add the .SCS mod, choose an output folder, and wait for the extraction; the time required may vary depending on the file size.
+
 scs_to_blender.py é o código-fonte, na versão 1.5.
 README.md, em português com um resumo em inglês, traz:
 os recursos e uma tabela de formatos suportados;
